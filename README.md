@@ -1,8 +1,7 @@
 ### ¡Hola👋! Mi nombre es Melissa.
 
-<p align="center">
-  <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
-</p>
+![phone](https://user-images.githubusercontent.com/64376843/175810331-4bc84b1a-e0ae-4a26-bade-5d32ade0cc85.png)
+
 <h1 align="center">
   Bienvenidos a mi repositorio 😄
 </h1>
