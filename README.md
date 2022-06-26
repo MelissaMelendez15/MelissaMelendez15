@@ -24,7 +24,7 @@
 
 <hr>
 
-## Puedes Contactarme por:  📫
+## Puedes contactarme por:  📫
 
 <ul>
    <li><a href="https://www.linkedin.com/in/melissa-mel%C3%A9ndez-zamora/"><img src="https://github.com/MelissaMelendez15/asset/blob/main/linkedin.png"      width="30"></img></a></li>
