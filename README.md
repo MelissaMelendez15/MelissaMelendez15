@@ -6,7 +6,7 @@
 
   <p align="center"><em>Soy Diplomada Universitaria en Oceanografía (Estudios de los Oceanos)</em>. Actualmente  🔭, me dedico <strong>al Desarrollo Web como Full Stack Developer</strong> ya que me <strong>apasiona la programación y el Desarrollo</strong>  ❤️. En definitiva, todo lo que tenga que ver con el mundo <strong>Tecnoligico</strong>  💻 . Estoy deseando poder incorporarme a proyectos innovadores que me permitan desarrollar mi carrera profesional y poder aplicar todos mis sólidos conocimientos 🛠️,  en materia de programación orientada a objet como <em>JavaScript, PHP, Python</em> y así aportar un valor diferenciador que me permita el èxito en cada uno de los retos a los que me enfrente 🌟 . Siempre dispuesta <strong>a dar lo mejor de mi y aplicar mis conocimientos para la mejora continua.</strong> 🚀</p>
 
-## Un poco más sobre mi... 🧐  
+## Un poco más sobre mi...  🧐  
   
 ```javascript
  const myPassion = ['Programming', 'My cat Richie', 'My family', 'Oceans', 'Classical dance', 'Movies', 'Music', 'Games']
@@ -24,9 +24,8 @@
 
 <hr>
 
-## Contactame  📫
+## Puedes Contactarme por: 📫
 
- <li><a href="https://www.linkedin.com/in/melissa-mel%C3%A9ndez-zamora/" target="blank"></a></li>
 <ul>
    <li><a href="https://www.linkedin.com/in/melissa-mel%C3%A9ndez-zamora/"></a></li>
    <li>Email: MelissaMelendez15@gmail.com</li>
