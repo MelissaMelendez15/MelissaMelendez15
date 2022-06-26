@@ -1,4 +1,4 @@
-<h2>¡Hola👋! Mi nombre es Melissa.</h2>
+<h2>¡Hola, mi nombre es Melissa!👋</h2>
 
 <h1 align="center">
   Bienvenidos a mi repositorio 😄 
@@ -9,7 +9,7 @@
 ## Un poco más sobre mi... 🧐  
   
 ```javascript
- const myPassion = ['Programming', 'My cat Richie', 'My family', 'Classical dance', 'Movies', 'Music', 'Games']
+ const myPassion = ['Programming', 'My cat Richie', 'My family', 'Oceans', 'Classical dance', 'Movies', 'Music', 'Games']
  const mySkillsFrontEnd = ['HTML', 'CSS', 'Sass', 'JS', 'React']
  const mySkillsBackEnd = ['Node','Express', 'MongoDB', 'MySql', 'PHP']
  const myNewSkills = ['Laravel.']
@@ -19,7 +19,17 @@
 
 ```
 <hr>
+
 <p align="center"><em><b>Me encanta conectarme y conocer diferentes personas</b> así que si quieres decir <b>hola, ¡estaré feliz de conocerte más!</b> :)</p>
+
+<hr>
+
+## Contactame 📫
+
+<ul>
+   <li><a href="https://www.linkedin.com/in/melissa-mel%C3%A9ndez-zamora/"></a>Linkedin</li>
+    <li>Email: MelissaMelendez15@gmail.com</li>
+</ul>
 
 <p align="center">
 Desarrollado con ❤️ desde España
@@ -27,7 +37,3 @@ Desarrollado con ❤️ desde España
 
 
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
