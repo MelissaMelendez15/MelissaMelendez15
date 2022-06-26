@@ -27,12 +27,12 @@
 ## Puedes Contactarme por:  📫
 
 <ul>
-   <li><a href="https://www.linkedin.com/in/melissa-mel%C3%A9ndez-zamora/"><img src="https://github.com/MelissaMelendez15/asset/blob/main/linkedin.png"      width="50"></img></a></li>
+   <li><a href="https://www.linkedin.com/in/melissa-mel%C3%A9ndez-zamora/"><img src="https://github.com/MelissaMelendez15/asset/blob/main/linkedin.png"      width="30"></img></a></li>
    <li>Email: MelissaMelendez15@gmail.com</li>
 </ul>
 
 <p align="center">
-  Hecho con ❤️ desde España.
+  Hecho con  ❤️  por mi.
 </p>
 
 
