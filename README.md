@@ -24,15 +24,15 @@
 
 <hr>
 
-## Contactame 📫
+## Contactame  📫
 
+ <p><a href="https://www.linkedin.com/in/melissa-mel%C3%A9ndez-zamora/"></a></p>
 <ul>
-   <li><a href="https://www.linkedin.com/in/melissa-mel%C3%A9ndez-zamora/"></a></li>
-    <li>Email: MelissaMelendez15@gmail.com</li>
+   <li>Email: MelissaMelendez15@gmail.com</li>
 </ul>
 
 <p align="center">
-Desarrollado con ❤️ desde España
+  Hecho con ❤️ desde España.
 </p>
 
 
