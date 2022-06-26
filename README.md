@@ -27,7 +27,7 @@
 ## Contactame 📫
 
 <ul>
-   <li><a href="https://www.linkedin.com/in/melissa-mel%C3%A9ndez-zamora/"></a>Linkedin</li>
+   <li><a href="https://www.linkedin.com/in/melissa-mel%C3%A9ndez-zamora/"></a></li>
     <li>Email: MelissaMelendez15@gmail.com</li>
 </ul>
 
