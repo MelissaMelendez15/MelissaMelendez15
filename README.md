@@ -1,7 +1,7 @@
 <h2>¡Hola, mi nombre es Melissa!👋</h2>
 
-<h1 align="center">
-  <p>Bienvenidos a mi repositorio</p><img src="https://github.com/MelissaMelendez15/asset/blob/main/200%20(1).webp" width="50">
+<h1>
+  <p>Bienvenidos a mi repositorio</p><img src="[https://github.com/MelissaMelendez15/asset/blob/main/200%20(1).webp](https://github.com/MelissaMelendez15/asset/blob/main/giphy%20(1).gif)" width="50">
 </h1>
 
   <p align="center"><em>Soy Diplomada Universitaria en Oceanografía (Estudios de los Oceanos)</em>. Actualmente  🔭, me dedico <strong>al Desarrollo Web como Full Stack Developer</strong> ya que me <strong>apasiona la programación y el Desarrollo</strong>  ❤️. En definitiva, todo lo que tenga que ver con el mundo <strong>Tecnoligico</strong>  💻 . Estoy deseando poder incorporarme a proyectos innovadores que me permitan desarrollar mi carrera profesional y poder aplicar todos mis sólidos conocimientos 🛠️,  en materia de programación orientada a objet como <em>JavaScript, PHP, Python</em> y así aportar un valor diferenciador que me permita el èxito en cada uno de los retos a los que me enfrente 🌟 . Siempre dispuesta <strong>a dar lo mejor de mi y aplicar mis conocimientos para la mejora continua.</strong> 🚀</p>
