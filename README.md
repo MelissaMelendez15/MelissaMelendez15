@@ -1,6 +1,6 @@
 <h2>¡Hola, mi nombre es Melissa!👋</h2>
 
-<h1>Bienvenidos a mi repositorio</h1> <img src="https://github.com/MelissaMelendez15/asset/blob/main/giphy%20(1).gif" width="50">
+<h1>Bienvenidos a mi repositorio <img src="https://github.com/MelissaMelendez15/asset/blob/main/giphy%20(1).gif" width="50"></h1> 
 
 <img align='right' src="https://github.com/MelissaMelendez15/asset/blob/main/200.webp" width="230">
 
