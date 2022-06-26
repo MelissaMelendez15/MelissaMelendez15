@@ -1,7 +1,7 @@
 <h2>¡Hola, mi nombre es Melissa!👋</h2>
 
 <h1 align="center">
-  Bienvenidos a mi repositorio 😄 
+  Bienvenidos a mi repositorio <iframe src="https://giphy.com/embed/kCWpNSLncJy59qEmwO" width="480" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kitty-witzig-grinsen-kCWpNSLncJy59qEmwO">via GIPHY</a></p>
 </h1>
 
   <p align="center"><em>Soy Diplomada Universitaria en Oceanografía (Estudios de los Oceanos)</em>. Actualmente  🔭, me dedico <strong>al Desarrollo Web como Full Stack Developer</strong> ya que me <strong>apasiona la programación y el Desarrollo</strong>  ❤️. En definitiva, todo lo que tenga que ver con el mundo <strong>Tecnoligico</strong>  💻 . Estoy deseando poder incorporarme a proyectos innovadores que me permitan desarrollar mi carrera profesional y poder aplicar todos mis sólidos conocimientos 🛠️,  en materia de programación orientada a objet como <em>JavaScript, PHP, Python</em> y así aportar un valor diferenciador que me permita el èxito en cada uno de los retos a los que me enfrente 🌟 . Siempre dispuesta <strong>a dar lo mejor de mi y aplicar mis conocimientos para la mejora continua.</strong> 🚀</p>
