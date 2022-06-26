@@ -9,16 +9,14 @@
 ## Un poco más sobre mi... 💻 
   
 ```javascript
- 
+ const myPassion = ['Programming', 'My cats', 'My family', 'Classical dance']
  const mySkillsFrontEnd = ['HTML', 'CSS', 'Sass', 'JS', 'React']
- const mySkillsBackEnd = ['Node','Express', 'MongoDB', 'MySql, 'PHP']
- const myNewSkills = ['Laravel']
- 
- const fullStack = [ mySkillsFrontEnd, mySkillsBackEnd, myNewSkills]
- console.log(fullStack)  
- console.log(fullStack.length)
- console.log(fullStack[0])  
- console.log(fullStack[1]) 
+ const mySkillsBackEnd = ['Node','Express', 'MongoDB', 'MySql', 'PHP']
+ const myNewSkills = ['Laravel.']
+
+const myLive = myPassion.concat(mySkillsFrontEnd, mySkillsBackEnd, myNewSkills)
+console.log(`Mis principales pasiones y mis habilidades tècnicas son: ${myLive.length} y se llaman ${myLive.join(', ')}`)
+
 ```
 
 
