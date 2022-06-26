@@ -27,7 +27,7 @@
 ## Puedes Contactarme por:  📫
 
 <ul>
-   <li><img src="https://github.com/MelissaMelendez15/asset/blob/main/linkedin.png"><a href="https://www.linkedin.com/in/melissa-mel%C3%A9ndez-zamora/"></img></a></li>
+   <li><a href="https://www.linkedin.com/in/melissa-mel%C3%A9ndez-zamora/"><img src="https://github.com/MelissaMelendez15/asset/blob/main/linkedin.png"      width="50"></img></a></li>
    <li>Email: MelissaMelendez15@gmail.com</li>
 </ul>
 
