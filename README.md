@@ -1,10 +1,10 @@
-### ¡Hola👋! Mi nombre es Melissa.
+<h2>¡Hola👋! Mi nombre es Melissa.</h2>
 
 <h1 align="center">
   Bienvenidos a mi repositorio 😄
 </h1>
  
-Soy Diplomada Universitaria en Oceanografía (Estudios de los Oceanos). Actualmente  🔭, me dedico al Desarrollo Web como Full Stack Developer ya que me apasiona la programación y el Desarrollo  ❤️. En definitiva, todo lo que tenga que ver con el mundo Tecnoligico  💻 . Estoy deseando poder incorporarme a proyectos innovadores que me permitan desarrollar mi carrera profesional y poder aplicar todos mis sólidos conocimientos 🛠️,  en materia de programación orientada a objet como JavaScript, PHP, Python y así aportar un valor diferenciador que me permita el èxito en cada uno de los retos a los que me enfrente 🌟 . Siempre dispuesta a dar lo mejor de mi y aplicar mis conocimientos para la mejora continua  🚀.
+<p><em>Soy Diplomada Universitaria en Oceanografía (Estudios de los Oceanos)</em>. Actualmente  🔭, me dedico <strong>al Desarrollo Web como Full Stack Developer</strong> ya que me <strong>apasiona la programación y el Desarrollo</strong>  ❤️. En definitiva, todo lo que tenga que ver con el mundo <strong>Tecnoligico</strong>  💻 . Estoy deseando poder incorporarme a proyectos innovadores que me permitan desarrollar mi carrera profesional y poder aplicar todos mis sólidos conocimientos 🛠️,  en materia de programación orientada a objet como JavaScript, PHP, Python y así aportar un valor diferenciador que me permita el èxito en cada uno de los retos a los que me enfrente 🌟 . Siempre dispuesta a dar lo mejor de mi y aplicar mis conocimientos para la mejora continua  🚀.</p>
 
 ## Tecnologías  💻 
   
