@@ -1,6 +1,6 @@
 <h2>¡Hola, mi nombre es Melissa!👋</h2>
 
-<h1>Bienvenidos a mi repositorio <img src="https://giphy.com/stickers/imoji-cats-l0IyfKMG8wCXoQCuA" width="50"></h 
+<h1>Bienvenidos a mi repositorio <img src="#" width="50"></h 
 
 <img align='right' src="https://github.com/MelissaMelendez15/asset/blob/main/200.webp" width="230">
 
