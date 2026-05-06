@@ -24,5 +24,5 @@ Production-style deployment workflow with automatic rollback using Jenkins, Dock
 ### QA Automation Framework PoC
 Enterprise-oriented QA automation framework with Playwright, Jenkins and reporting dashboard.
 
-### Jenkins + Grafana Observability
-Metrics visualization pipeline using Prometheus, Pushgateway and Grafana.
+### Jenkins + Grafana Observability PoC
+Small proof of concept to understand how CI/CD pipeline metrics can be exposed, collected and visualized using Prometheus, Pushgateway and Grafana.
