@@ -16,13 +16,13 @@ Jenkins · Docker · Terraform · AWS · Azure · Kubernetes · Grafana
 ## 🚀 Featured Projects
 
 ### CI/CD Security Gate
-Jenkins pipeline with Flake8 + Bandit quality gates for secure deployments.
+CI/CD security pipeline with Jenkins, Flake8, Bandit and automated quality gates.
 
 ### Blue/Green Deployment Pipeline
-Production-style deployment workflow with automatic rollback using Jenkins, Docker and Nginx.
+Blue/Green deployment pipeline with health checks and automatic rollback using Jenkins, Docker and Nginx.
 
 ### QA Automation Framework PoC
-Enterprise-oriented QA automation framework with Playwright, Jenkins and reporting dashboard.
+Enterprise-style QA automation framework with Playwright, Jenkins and reporting dashboard.
 
 ### Jenkins + Grafana Observability PoC
-Small proof of concept to understand how CI/CD pipeline metrics can be exposed, collected and visualized using Prometheus, Pushgateway and Grafana.
+Jenkins observability PoC using Prometheus, Pushgateway and Grafana metrics visualization.
